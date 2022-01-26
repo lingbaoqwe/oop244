@@ -1,11 +1,3 @@
-// Final Project Tester
-// file: fpTester.cpp
-// Version: 0.8
-// Date: 2021-03-26
-// Author: Fardad 
-// Description:
-// This file tests the Final project
-/////////////////////////////////////////////
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
